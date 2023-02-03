@@ -11,11 +11,10 @@
 - [Scripts](#scripts)
 - [Tools Used](#Tools-Used)
 - [Team Members](#team-members)
-- [Join us](#join-us)
 - [Credits]()
 - [References](#references)
-- [Images](#images)
-- [videos]()
+- [Images](./images)
+- [videos](./videos)
 
 ## Introduction
 *A hacker is a person with a strong intrest in computer who enjoys learning and experimenting with them . And `hacking` is the process gaining of unauthorized access to data in a system or computer*
