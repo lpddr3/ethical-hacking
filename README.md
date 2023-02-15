@@ -4,11 +4,41 @@
 # Ethical-hacking
 
 - [Introduction](#introduction)
-- [Basics](#basics)
-- [languages](#languages)
 - [Pre-Requests](#pre-requests)
+    - [Linux](https://github.com/aruncs31s/ethical-hacking/tree/main/Pre-Requests#linux)
+      - [Rookie](./Pre-Requests#rookie)
+        - [Introduction]()
+        - [Firing Up]()
+      * [Intermediate]()
+        - [Introduction]()
+        - [tty]()
+        - [Terminal]()
+      - [Expert](#expert)
+    - [Git](#git)
+      - [Introduction](#git-introduction)
+      - [Installition](#git-installition)
+      - [Working with Repos](#working-with-repositories)
+    - [Github](#github)
+    - [Github-Readme.md](#github-readme)
+    - [Github-Fork](#github-fork)
+
+
+- [Basics](#basics)
+  - [Proxy Servers and Stay Anonymous]()
+- [languages](#languages)
+  - [Bash](https://github.com/aruncs31s/ethical-hacking/tree/main/languages/#bash)
+  - [Python](https://github.com/aruncs31s/ethical-hacking/tree/main/languages/#python)
+  - [C](https://github.com/aruncs31s/ethical-hacking/tree/main/languages/#c)
+  - [Perl](https://github.com/aruncs31s/ethical-hacking/tree/main/languages/#perl)
+  - [HTML](https://github.com/aruncs31s/ethical-hacking/tree/main/languages/#html)
+
 - [Hacks](#hacks)
+  - [Android Hacking](https://github.com/aruncs31s/ethical-hacking/tree/main/android-hacking)
+  - [privilege escalation](https://github.com/aruncs31s/ethical-hacking/tree/main/privilege%20escalation)
+  - [wifi password hacking](https://github.com/aruncs31s/ethical-hacking/tree/main/Wifi%20Hacking)
 - [Scripts](#scripts)
+  - [Payload Generator](https://github.com/aruncs31s/ethical-hacking/blob/main/Scripts/payload-generator-script1.sh)
+  - [Neovim theme installer](https://github.com/aruncs31s/neovim-vscode-theme/blob/main/install.sh)
 - [Tools Used](#Tools-Used)
 - [Team Members](#team-members)
 - [Credits]()
@@ -16,18 +46,19 @@
 - [Images](./images)
 - [videos](./videos)
 
-## Introduction
-*A hacker is a person with a strong intrest in computer who enjoys learning and experimenting with them . And `hacking` is the process gaining of unauthorized access to data in a system or computer*
+<h2 align="center" id="introduction">Introduction</h2>
+<p align="justify">A hacker is a person with a strong intrest in computer who enjoys learning and experimenting with them . And `hacking` is the process gaining of unauthorized access to data in a system or computer*
 <i>     This is a free and open source project made by few students and anyone intrested sharing 
 hacking or linux skill or anyone willing to learn hacking are wellcome here 
 </i>
 
-<h2 class="title">Disclimer</h2>
+<h2 align="center">Disclimer</h2>
 <i>   This whole project is for educational purpose only and we suggest that you should gain full permission before doing anything on their network even before scanning</i>
 
-<h2 class="title">What is this all about?</h2>
+<h2 align="center">What is this all about?</h2>
 <i class="discription">   We all know what hacking is and we've seen lot of hacker in movies right? the one always with masks and they just press one key and the system is hacked . That's not realy how things work a simple simple scan can even take more than the whole movie(depents on what your scanning).Inorder to be a hacker (or just to know how it works) we should at least know about linux and how to execute a command, becouse now days everything is available on github from simple phishing scripts to whole hacking framework, Hacking using those scripts still make you a hacker but you will be known as a "script kiddie" (the person who plays with scripts) and who does not even know what he is doing </i>
 
+</p>
 
 for more [click here](https://github.com/aruncs31s/ethical-hacking/tree/main/Introduction)
 
@@ -41,6 +72,26 @@ This sections's discus about all basic hacks [click here](https://github.com/aru
 - [Bash](https://github.com/aruncs31s/ethical-hacking/tree/main/languages)
 
 ## Pre-Requests
+  <p align="justify"> followings are required to function effectively on this project and essential in bocoming an ethical hacker</p>
+
+- [Linux](./Pre-Requests#linux)
+    - [Rookie](./Pre-Requests#rookie)
+        - [Introduction]()
+        - [Firing Up]()
+    - [Intermediate](#intermediate)
+        - [Introduction]()
+        - [tty]()
+        - [Terminal]()
+    - [Expert](#expert)
+- [Git](#git)
+    - [Introduction](#git-introduction)
+    - [Installition](#git-installition)
+    - [Working with Repos](#working-with-repositories)
+    - 
+- [Github](#github)
+- [Github-Readme.md](#github-readme)
+- [Github-Fork](#github-fork)
+
 
 [click here](https://github.com/aruncs31s/ethical-hacking/tree/main/Pre-Requests)
 
@@ -57,7 +108,7 @@ This sections's discus about all basic hacks [click here](https://github.com/aru
 
 - [payload-generator](https://github.com/aruncs31s/ethical-hacking/blob/main/Scripts/payload-generator-script1.sh)
 - [Neovim theme installer](https://github.com/aruncs31s/neovim-vscode-theme/blob/main/install.sh)
-
+- [Ransomeware](https://github.com/sonyt86/programming/blob/main/python/ransomware.py)
 ## Exploits 
 
 - [CVE-2022-0847-exploit](https://github.com/aruncs31s/ethical-hacking/blob/main/Scripts/CVE-2022-0847-exploit.c)
@@ -99,6 +150,7 @@ This sections's discus about all basic hacks [click here](https://github.com/aru
 for more details contact [here](https://t.me/+mqL4fZrUtEw0MjJl)*
 
 ### References
-- **ANTI-HACKER TOOL KIT Fourth Edition by Mike Shema**
-- **YOUR UNIX THE ULTIMATE GUIDE by Sumitabha Das**
-- **CYBER SECURITY Understanding Cyber Crimes,Computer Forensics and Legal Perspectives by Nina Godbole , Sunit Belapure**
+- ANTI-HACKER TOOL KIT Fourth Edition by Mike Shema
+- YOUR UNIX THE ULTIMATE GUIDE by Sumitabha Das
+- CYBER SECURITY Understanding Cyber Crimes,Computer Forensics and Legal Perspectives by Nina Godbole , Sunit Belapure
+- HACKING by harsh Bothra
